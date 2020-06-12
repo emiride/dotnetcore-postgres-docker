@@ -1,4 +1,4 @@
-# dotnetcore-postgress-docker
+# dotnetcore-postgres-docker
 
 This is a showcase of how easy it is to map multi layer application locally using Docker. 
 The only pre-requisite is having Docker installed locally. For Linux, you need to have docker-compose as well.
